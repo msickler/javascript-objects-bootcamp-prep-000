@@ -8,4 +8,3 @@ function removeFromPlaylist(Object, artistName) {
   delete Object[artistName]
   return Object
 }
-
